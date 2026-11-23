@@ -11,22 +11,22 @@ class Imgcompress < Formula
   # One universal tarball serves both Mac architectures.
   on_macos do
     on_arm do
-      url "https://github.com/nickv2002/ImageCompress/releases/download/v2026.11.22.1/imgcompress-2026.11.22.1-macos-universal.tar.gz"
-      sha256 "d7f59b86b0690c839f5b36a4cae55e02cb12074ba98cd86c5762d2d05f0971e6"
+      url "https://github.com/nickv2002/ImageCompress/releases/download/v2026.11.23.1/imgcompress-2026.11.23.1-macos-universal.tar.gz"
+      sha256 "8c6b80ec7e93580c0dc59ed2f2f25e53ff0a94139a6c087dd31698ea8e7e4bde"
     end
     on_intel do
-      url "https://github.com/nickv2002/ImageCompress/releases/download/v2026.11.22.1/imgcompress-2026.11.22.1-macos-universal.tar.gz"
-      sha256 "d7f59b86b0690c839f5b36a4cae55e02cb12074ba98cd86c5762d2d05f0971e6"
+      url "https://github.com/nickv2002/ImageCompress/releases/download/v2026.11.23.1/imgcompress-2026.11.23.1-macos-universal.tar.gz"
+      sha256 "8c6b80ec7e93580c0dc59ed2f2f25e53ff0a94139a6c087dd31698ea8e7e4bde"
     end
   end
   on_linux do
     on_intel do
-      url "https://github.com/nickv2002/ImageCompress/releases/download/v2026.11.22.1/imgcompress-2026.11.22.1-linux-x86_64.tar.gz"
-      sha256 "17996430a7452a8972733c700c1c3f023d17d06c9cfefe3079da8de5abb68cc7"
+      url "https://github.com/nickv2002/ImageCompress/releases/download/v2026.11.23.1/imgcompress-2026.11.23.1-linux-x86_64.tar.gz"
+      sha256 "f9b9186e0703cfae235708b5689fa43d5185c202de8c5baba8ba72a44dd720e2"
     end
     on_arm do
-      url "https://github.com/nickv2002/ImageCompress/releases/download/v2026.11.22.1/imgcompress-2026.11.22.1-linux-aarch64.tar.gz"
-      sha256 "49ce2ebaabfdcc20f24fc91e23e0e8b6ef140fdc1321bfc9af753d852bf5e3f6"
+      url "https://github.com/nickv2002/ImageCompress/releases/download/v2026.11.23.1/imgcompress-2026.11.23.1-linux-aarch64.tar.gz"
+      sha256 "e6cd5d336c4d98dcab837da2b03f0bd4adf2f2c460f9428d6d5e5ca7c512413a"
     end
   end
 

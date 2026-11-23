@@ -1,6 +1,6 @@
 cask "imagecompress" do
-  version "2026.11.22.1"
-  sha256 "04a4c4fe55107506f42a77109b83f962552e0dbd19c3f5de59a9b9f79cfad202"
+  version "2026.11.23.1"
+  sha256 "fa62b099a78dfa5f2e856387525c69b6bb945fc6e37520640374258db41dbc03"
 
   url "https://github.com/nickv2002/ImageCompress/releases/download/v#{version}/ImageCompress-#{version}.zip"
   name "ImageCompress"
