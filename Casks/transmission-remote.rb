@@ -1,6 +1,6 @@
 cask "transmission-remote" do
-  version "2026.11.16.1"
-  sha256 "315d938ae4d4499485c0ec87993f704bf8eb030b0515235ba2455097b3ab71e2"
+  version "2026.11.27.1"
+  sha256 "dca7a3bc10228daf43939ab82606e510cb8ce75e7d5ca4a5f675fc70f301bcac"
 
   url "https://github.com/nickv2002/Transmission-Remote-MacOS/releases/download/v#{version}/Transmission.Remote-#{version}.zip"
   name "Transmission Remote"
